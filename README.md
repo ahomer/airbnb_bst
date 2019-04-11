@@ -9,7 +9,7 @@ Then you can install the pandas and jupyter using pip.
 
 ```
 pip install pandas
-pip install jupyter
+pip install jupyter 
 ```
 
 ### Getting Started
