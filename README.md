@@ -38,7 +38,8 @@ The analysis process follow the CRISP-DM
 5. Evaluation
 6. Deployment
 
-Open the notebook to find more detail.
+More interesting opinions,please go to 
+https://medium.com/@bruce007/exploration-on-boston-data-of-airbnb-5a63da751366 
 
 # Acknowledgements
 Thanks to Aleksey Bilogur(https://www.kaggle.com/residentmario/modeling-prices). His modeling price is very effective.
