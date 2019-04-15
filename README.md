@@ -41,7 +41,7 @@ The analysis process follow the CRISP-DM
 Open the notebook to find more detail.
 
 # Acknowledgements
-Thanks to Aleksey Bilogur(https://www.kaggle.com/residentmario/modeling-prices). His modeling price is very efffective.
+Thanks to Aleksey Bilogur(https://www.kaggle.com/residentmario/modeling-prices). His modeling price is very effective.
 Thanks to Aleksandra Deis(https://www.kaggle.com/aleksandradeis/airbnb-seattle-reservation-prices-analysis). I read her post before starting this job.
 
 
