@@ -1,23 +1,27 @@
 # Boston-data
 
-This is about the airbnb Boston-data data analying.You can download from https://www.kaggle.com/airbnb/boston.
+This is about the airbnb Boston-data data analysis.You can download data from https://www.kaggle.com/airbnb/boston.
+I had downloaded it and saved it in 'boston-airbnb' folder.
 
 ### Prerequisites
 
 You need to install python,such as python 3 from https://www.python.org/.
-Then you can install the pandas and jupyter using pip.
+Then you should install these packages listed below using pip:
 
 ```
-pip install pandas
-pip install jupyter 
+pip install matplotlib
+pip install pandas 
+pip install langdetect 
+pip install nltk 
 ```
 
 ### Getting Started
 
-Just clone the the repo or open the notebook files.
+Just clone the the repo and open the notebook file (boston-airbnb.ipynb).
+Go through the notebook and take a data analysis journey.
 
 ### Content
-The analying process follow the CRISP-DM
+The analysis process follow the CRISP-DM
 
 1. Business understanding
 2. Data understanding
