@@ -13,6 +13,7 @@ pip install matplotlib
 pip install pandas 
 pip install langdetect 
 pip install nltk 
+pip install jupyter 
 ```
 
 ### Getting Started
